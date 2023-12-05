@@ -1,2 +1,3 @@
-# Segundo-repReadme
-Estes es un repositorio en github.
+Este es mi segundo repositorio en github, trabajado en mi computadora personal.
+
+
